@@ -24,4 +24,5 @@
       "name": "Spring Boot + Chrome",
       "configurations": ["DiscoveryServerApplication", "Launch Chrome"]
     }
+  ]
 }
